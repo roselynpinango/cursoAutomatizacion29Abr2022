@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-29T21:00:30 ART" name="Default suite" finished-at="2022-04-29T21:00:30 ART" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2022-04-29T21:00:30 ART" name="Default test" finished-at="2022-04-29T21:00:30 ART" duration-ms="66">
+      <class name="pruebas.Laboratorio9b">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pruebas.Laboratorio9b@7ec7ffd3]" started-at="2022-04-29T21:00:15 ART" name="setUp" finished-at="2022-04-29T21:00:30 ART" duration-ms="14743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:pruebas.Laboratorio9b@7ec7ffd3]" started-at="2022-04-29T21:00:30 ART" name="test" finished-at="2022-04-29T21:00:30 ART" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- pruebas.Laboratorio9b -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
