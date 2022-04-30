@@ -22,6 +22,7 @@ public class Laboratorio9 {
 	@Test
 	public void leerValorTabla() {
 		WebElement valor = driver.findElement(By.xpath("//tbody/tr[4]/td[3]"));
+		System.out.println("Cambio para probar GitHub y GIT");
 		System.out.println("Valor de Fila 4 - Columna 3: " + valor.getText());
 	}
 }
